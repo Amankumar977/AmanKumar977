@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman kumar</h1>
 <h3 align="center">A passionate MERN and Java developer from India</h3>
-<img align="left" alt="Coding Gif" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3skChCQeVpvtuW6w2Lp5-HpzDxQLGrEEZNdrjg_QlZJpsVUwYUDyZgGyMV0wzBIw6T0&usqp=CAU">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar977&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar977" /> </p>
 
