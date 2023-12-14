@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ak9330674@gmail.com**
 
-- ⚡ Fun fact **Full time work to write and part time work to be smart and handsome.**
+- ⚡ Fun fact **Full-time work to write Code and part-time work to be smart and handsome.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
